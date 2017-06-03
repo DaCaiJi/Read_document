@@ -1,3 +1,9 @@
+## Web
+- [国产指纹库平台 – 天蝎指纹库](http://mp.weixin.qq.com/s/yX9_KiTreRLdpV27dnHSIg)  
+  
+- [一款强大的WordPress漏洞利用框架 – WPXF](http://www.freebuf.com/articles/web/135777.html)  
+
+- [一款开源指纹识别工具](https://github.com/Ms0x0/Dayu)
 
 ## Android
 - [浅谈被加壳ELF的调试](http://www.2cto.com/article/201505/402725.html)

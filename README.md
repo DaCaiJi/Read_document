@@ -8,19 +8,19 @@
 [python读GB级大文件](https://github.com/Shuang0420/Shuang0420.github.io/wiki/python%E8%AF%BBGB%E7%BA%A7%E5%A4%A7%E6%96%87%E4%BB%B6)
 
 ## Reverse
-- [《160个CrackMe一天一练 BY:yinyuepingguo》索引贴](http://bbs.fishc.com/thread-42999-1-1.html)  
+[《160个CrackMe一天一练 BY:yinyuepingguo》索引贴](http://bbs.fishc.com/thread-42999-1-1.html)  
 
 ## Windows
-- [Pentest Box之疑难杂症（解决）](http://www.secist.com/archives/2477.html)  
+[Pentest Box之疑难杂症（解决）](http://www.secist.com/archives/2477.html)  
 
 ## Android
-- [浅谈被加壳ELF的调试](http://www.2cto.com/article/201505/402725.html)
+[浅谈被加壳ELF的调试](http://www.2cto.com/article/201505/402725.html)
 
 
 ## Linux
-- [Linux调试工具](http://www.cnblogs.com/lidabo/p/4377545.html)
+[Linux调试工具](http://www.cnblogs.com/lidabo/p/4377545.html)
 
 
 ## Git
-- [大白话解释 Git 和 GitHub](http://mp.weixin.qq.com/s/sAZ4O2Es_Y5zinHhYlWn0w)
-- [Markdown 语法 示例 字体 字号 颜色](http://blog.csdn.net/u011419965/article/details/50536937)  
+[大白话解释 Git 和 GitHub](http://mp.weixin.qq.com/s/sAZ4O2Es_Y5zinHhYlWn0w)
+[Markdown 语法 示例 字体 字号 颜色](http://blog.csdn.net/u011419965/article/details/50536937)  

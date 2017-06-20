@@ -6,7 +6,8 @@
  [手工检测Web应用指纹的一些技巧](http://www.freebuf.com/news/137497.html?from=timeline)  
  [python读GB级大文件](https://github.com/Shuang0420/Shuang0420.github.io/wiki/python%E8%AF%BBGB%E7%BA%A7%E5%A4%A7%E6%96%87%E4%BB%B6)  
  [Eternalblue-Doublepulsar-Metasploit](https://github.com/ElevenPaths/Eternalblue-Doublepulsar-Metasploit/)  
-   
+ [各种漏洞PoC、ExP的收集或编写](https://github.com/coffeehb/Some-PoC-oR-ExP)  
+ 
   ***web tools***  
   [OWASP的目录扫描工具 OpenDoor](https://github.com/stanislav-web/OpenDoor)  
   [一款强大的WordPress漏洞利用框架 – WPXF](http://www.freebuf.com/articles/web/135777.html)  

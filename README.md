@@ -7,6 +7,7 @@
  [python读GB级大文件](https://github.com/Shuang0420/Shuang0420.github.io/wiki/python%E8%AF%BBGB%E7%BA%A7%E5%A4%A7%E6%96%87%E4%BB%B6)  
  [Eternalblue-Doublepulsar-Metasploit](https://github.com/ElevenPaths/Eternalblue-Doublepulsar-Metasploit/)  
  [各种漏洞PoC、ExP的收集或编写](https://github.com/coffeehb/Some-PoC-oR-ExP)  
+ [cms-exp](https://github.com/FlorianHeigl/cms-explorer)  
  
   ***web tools***  
   [OWASP的目录扫描工具 OpenDoor](https://github.com/stanislav-web/OpenDoor)  

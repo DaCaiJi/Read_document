@@ -5,6 +5,7 @@
 [DeathStar：一键自动化域渗透工具（含演示视频）](http://www.freebuf.com/sectool/136224.html)  
 [一种有效的Web指纹识别方法](http://journal.ucas.ac.cn/CN/abstract/abstract12402.shtml)  
 [识别Web服务器 (OTG-INFO-002)](https://kennel209.gitbooks.io/owasp-testing-guide-v4/content/zh/web_application_security_testing/fingerprint_web_server_otg-info-002.html)  
+
 [手工检测Web应用指纹的一些技巧](http://www.freebuf.com/news/137497.html?from=timeline)  
 [python读GB级大文件](https://github.com/Shuang0420/Shuang0420.github.io/wiki/python%E8%AF%BBGB%E7%BA%A7%E5%A4%A7%E6%96%87%E4%BB%B6)  
 [Eternalblue-Doublepulsar-Metasploit](https://github.com/ElevenPaths/Eternalblue-Doublepulsar-Metasploit/)  

@@ -14,7 +14,8 @@
   [一款强大的WordPress漏洞利用框架 – WPXF](http://www.freebuf.com/articles/web/135777.html)  
   [一款开源指纹识别工具](https://github.com/Ms0x0/Dayu)  
   [子域名发掘神器：AQUATONE](http://www.freebuf.com/sectool/137806.html)  
-
+  [Pcap_tools: 基于网络流量包的漏洞自动化分析](https://github.com/pythonran/Pcap_tools)  
+  
 ## Reverse
 [《160个CrackMe一天一练 BY:yinyuepingguo》索引贴](http://bbs.fishc.com/thread-42999-1-1.html)  
 

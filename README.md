@@ -32,6 +32,8 @@
 ## Linux
 - [Linux调试工具](http://www.cnblogs.com/lidabo/p/4377545.html)
 
+## Industrial Control System (ICS) 
+- [与工控系统（ICS）安全相关的资源清单](https://github.com/hslatman/awesome-industrial-control-system-security)  
 
 ## Git
 - [大白话解释 Git 和 GitHub](http://mp.weixin.qq.com/s/sAZ4O2Es_Y5zinHhYlWn0w)

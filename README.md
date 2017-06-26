@@ -16,28 +16,36 @@
 - [一款开源指纹识别工具](https://github.com/Ms0x0/Dayu)  
 - [子域名发掘神器：AQUATONE](http://www.freebuf.com/sectool/137806.html)  
 - [Pcap_tools: 基于网络流量包的漏洞自动化分析](https://github.com/pythonran/Pcap_tools)  
-- [Modbus渗透测试框架](https://github.com/enddo/smod)  
-
+- [Modbus渗透测试框架](https://github.com/enddo/smod)  
+- [.git 泄漏利用工具，可还原历史版本](https://github.com/bugscanteam/githack)  
   
+  
 ## Reverse
 - [《160个CrackMe一天一练 BY:yinyuepingguo》索引贴](http://bbs.fishc.com/thread-42999-1-1.html)  
-
+  
+  
 ## Windows
 - [Pentest Box之疑难杂症（解决）](http://www.secist.com/archives/2477.html)  
-
+  
+  
 ## Android
 - [浅谈被加壳ELF的调试](http://www.2cto.com/article/201505/402725.html)
-
-
+  
+  
 ## Linux
 - [Linux调试工具](http://www.cnblogs.com/lidabo/p/4377545.html)
-
+  
+  
 ## Industrial Control System (ICS) 
 - [与工控系统（ICS）安全相关的资源清单](https://github.com/hslatman/awesome-industrial-control-system-security)  
-
+  
+  
 ## Git
 - [大白话解释 Git 和 GitHub](http://mp.weixin.qq.com/s/sAZ4O2Es_Y5zinHhYlWn0w)
 - [Markdown 语法 示例 字体 字号 颜色](http://blog.csdn.net/u011419965/article/details/50536937)  
-
+  
+  
 ## CTF
 - [ctfs/write-ups-2017](https://github.com/ctfs/write-ups-2017/tree/master/0ctf-quals-2017)  
+  
+  

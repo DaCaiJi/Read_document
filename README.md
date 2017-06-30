@@ -10,7 +10,8 @@
 - [cms-exp](https://github.com/FlorianHeigl/cms-explorer)  
 - [asp环境下方便执行exp的简洁webshell](https://github.com/le4f/aspexec)  
 - [【内网小记】大家好，我是黑客H，我为M高校的网络安全带盐！](https://bbs.ichunqiu.com/thread-24157-1-1.html)  
-- [[我的作死案例]图书馆泡妹记 上](https://bbs.ichunqiu.com/thread-24168-1-1.html)  
+- [[我的作死案例]图书馆泡妹记 上](https://bbs.ichunqiu.com/thread-24168-1-1.html)  
+- [提高驾驶技术：用GAN去除(爱情)动作片中的马赛克和衣服](https://bbs.ichunqiu.com/thread-24196-1-1.html)  
 
   ***web tools***  
 - [OWASP的目录扫描工具 OpenDoor](https://github.com/stanislav-web/OpenDoor)  

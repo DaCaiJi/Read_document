@@ -58,4 +58,6 @@
 ## CTF
 - [ctfs/write-ups-2017](https://github.com/ctfs/write-ups-2017/tree/master/0ctf-quals-2017)  
   
-  
+  
+## Deep Learning
+- [Awesome-Deep-Learning-for-Chinese](https://github.com/Sambor123/Awesome-Deep-Learning-for-Chinese)  
